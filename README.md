@@ -1,96 +1,121 @@
-# Hi, I'm Rivka Hutzler 👋
+# Hi there, I'm Rivka Hutzler 👋
+### Software Engineer | Full Stack Developer | AI Specialist
 
-**Full Stack Developer | AI Specialist**
-
-I am a passionate Full Stack Developer specializing in building modern web applications and advanced AI-powered software solutions. I combine strong analytical engineering practices with a focus on scalable, clean architecture and intelligent, high-impact products.
+Analytical and creative Software Engineer focused on combining Full Stack development with AI, LLM Agents, and intelligent automation systems. Passionate about building scalable APIs, enterprise-grade architectures, and AI-driven applications.
 
 ---
 
-### 🛠 Technical Stack
+## 🛠️ Technical Stack
 
 **Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+`C#` `Python` `Java` `C++` `TypeScript`
 
 **Backend & Databases**
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+`ASP.NET Core` `FastAPI` `SQL Server` `MongoDB`
 
 **Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+`Angular` `React` `HTML5` `CSS3`
 
 **AI & LLM**
-![Generative AI](https://img.shields.io/badge/Generative_AI-9370DB?style=for-the-badge&logo=google-gemini&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)
-![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B0082?style=for-the-badge&logo=opencv&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF8C00?style=for-the-badge&logo=openai&logoColor=white)
+`Generative AI` `LlamaIndex` `RAG` `Computer Vision` `Prompt Engineering`
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏠 CozyGen - Smart Furniture & Interior Design Platform
-![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat&logo=angular&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=flat&logo=meta&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B0082?style=flat&logo=opencv&logoColor=white)
+### 🏠 CozyGen - Smart Interior Design E-Commerce
+`ASP.NET Core` `Angular` `PrimeNG` `Entity Framework` `RxJS` `LLaMA` `Computer Vision`
 
-*Full-stack platform combining furniture retail with intelligent interior design capabilities.*
+AI-powered e-commerce platform combining furniture retail with intelligent interior design capabilities.
 
 **Key Features**
-* AI design assistant using Groq API and LLaMA 3.3.
-* Computer Vision for style detection from uploaded room images.
-* Layered Architecture with Entity Framework Core (DB First).
-* Responsive Angular 18 frontend with PrimeNG and RxJS.
-* RESTful API architecture with scalable backend design.
+- Hebrew-speaking AI design assistant using Groq API and LLaMA 3.3
+- Computer Vision for style detection from uploaded room images
+- Layered Architecture with Entity Framework Core (DB First)
+- Responsive Angular 18 frontend with PrimeNG and RxJS
+- RESTful API architecture with scalable backend design
+
+**Repositories**
+- Frontend *(link coming soon)*
+- Backend API *(link coming soon)*
 
 ---
 
-#### 🧠 Intelligent Project Agent
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llamaindex&logoColor=white) ![Cohere](https://img.shields.io/badge/Cohere-FF6B6B?style=flat&logo=cohere&logoColor=white) ![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-8A2BE2?style=flat&logo=readme&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+### 🧠 Intelligent Project Agent
+`Python` `FastAPI` `LlamaIndex` `Cohere` `Hybrid RAG` `Pydantic`
 
-*Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project documentation and knowledge retrieval.*
+Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project documentation and knowledge retrieval.
 
 **Key Features**
-* Intelligent routing between semantic and structured retrieval.
-* Workflow-based architecture using LlamaIndex Workflows.
-* Deterministic structured extraction with Pydantic.
-* Enterprise-focused modular backend architecture.
+- Intelligent routing between semantic and structured retrieval
+- Workflow-based architecture using LlamaIndex Workflows
+- Deterministic structured extraction with Pydantic
+- Enterprise-focused modular backend architecture
+- Optimized retrieval pipeline for documentation systems
 
 ---
 
-#### 🤖 Downloads Warden - MCP Server
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=git&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-FFD43B?style=flat&logo=python&logoColor=white)
+### 🤖 Downloads Warden - MCP Server
+`Python` `AsyncIO` `MCP` `SHA256`
 
-*Specialized MCP server for intelligent and automated file management workflows.*
+Specialized MCP server for intelligent and automated file management workflows.
 
 **Key Features**
-* Smart file organization and sorting.
-* SHA-256 based duplicate detection.
-* 8 intelligent tools for Claude Desktop integration.
-* Async Python server architecture.
+- Smart file organization and sorting
+- SHA-256 based duplicate detection
+- Automatic ZIP extraction workflows
+- Date-based archive organization
+- 8 intelligent tools for Claude Desktop integration
 
 ---
 
-### 🎓 Education & Certifications
-* **Software Engineering:** KamaTech Ultra-Code & Mehatech (2024-2026).
-* **AI Specialization:** Extensive training in LLMs, AI Agents, Machine Learning, and Computer Vision.
+### 💻 CLI Command Generator
+`React` `Flask` `OpenAI` `Prompt Engineering`
+
+Natural language interface for generating safe Windows CLI commands.
+
+**Key Features**
+- Advanced Prompt Engineering architecture
+- Intent classification and command validation
+- Safety layer blocking dangerous system commands
+- Natural language to CLI conversion
+- Interactive React frontend interface
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka-git&show_icons=true&theme=radical&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rivka-git&theme=radical&no-frame=true)
+### 📄 Attendance Report Variation System
+`Python` `OCR` `Tesseract` `PyMuPDF` `ReportLab`
+
+Python-based pipeline for automated processing and modification of Hebrew attendance PDF reports.
+
+**Key Features**
+- OCR support for scanned documents
+- Deterministic seed-based time variation
+- Automatic report type classification
+- Hebrew PDF processing workflows
+- Dynamic PDF regeneration pipeline
 
 ---
 
-### 📬 Contact
-* **Email:** rivka7905@gmail.com
-* **Phone:** 058-3237905
-* **GitHub:** [https://github.com/rivka-git](https://github.com/rivka-git)
+## 🎓 Education & Certifications
+
+**Software Engineering Degree**
+Seminar Merkaz Beit Yaakov Jerusalem
+GPA: 95
+
+**AI Engineer Training**
+Specialized training in:
+- LLM Systems
+- AI Agents
+- Machine Learning
+- Prompt Engineering
+
+Program: Ultra-Code by Kama-Tech
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: rivka7905@gmail.com
+- 📱 Phone: 058-3237905
+- 💻 GitHub: https://github.com/rivka-git
