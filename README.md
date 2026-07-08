@@ -49,7 +49,8 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
 ## 🚀 Featured Projects
 
 ### 🏠 CozyGen - Smart Interior Design E-Commerce
-`ASP.NET Core` `Angular` `PrimeNG` `Entity Framework` `RxJS` `LLaMA` `Computer Vision`
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![PrimeNG](https://img.shields.io/badge/PrimeNG-6366F1?style=flat) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat)
 
 AI-powered e-commerce platform combining furniture retail with intelligent interior design capabilities.
 
@@ -67,7 +68,8 @@ AI-powered e-commerce platform combining furniture retail with intelligent inter
 ---
 
 ### 🧠 Intelligent Project Agent
-`Python` `FastAPI` `LlamaIndex` `Cohere` `Hybrid RAG` `Pydantic`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat) ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat) ![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-6A0DAD?style=flat) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
 Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project documentation and knowledge retrieval.
 
@@ -81,7 +83,8 @@ Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project 
 ---
 
 ### 🤖 Downloads Warden - MCP Server
-`Python` `AsyncIO` `MCP` `SHA256`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-2E4053?style=flat) ![MCP](https://img.shields.io/badge/MCP-6A0DAD?style=flat) ![SHA--256](https://img.shields.io/badge/SHA--256-555555?style=flat)
 
 Specialized MCP server for intelligent and automated file management workflows.
 
@@ -95,7 +98,8 @@ Specialized MCP server for intelligent and automated file management workflows.
 ---
 
 ### 💻 CLI Command Generator
-`React` `Flask` `OpenAI` `Prompt Engineering`
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DC143C?style=flat)
 
 Natural language interface for generating safe Windows CLI commands.
 
@@ -109,7 +113,8 @@ Natural language interface for generating safe Windows CLI commands.
 ---
 
 ### 📄 Attendance Report Variation System
-`Python` `OCR` `Tesseract` `PyMuPDF` `ReportLab`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-4B0082?style=flat) ![Tesseract](https://img.shields.io/badge/Tesseract-4285F4?style=flat) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-8A2BE2?style=flat) ![ReportLab](https://img.shields.io/badge/ReportLab-DA291C?style=flat)
 
 Python-based pipeline for automated processing and modification of Hebrew attendance PDF reports.
 
