@@ -3,9 +3,14 @@
 
 Analytical and creative Software Engineer focused on combining Full Stack development with AI, LLM Agents, and intelligent automation systems. Passionate about building scalable APIs, enterprise-grade architectures, and AI-driven applications.
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=briefcase&logoColor=white)
+
 ---
 
 ## 📊 My GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=rivka-git&color=blueviolet&style=flat&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/rivka-git?label=Followers&style=social)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rivka-git&theme=radical&column=7&margin-w=10&margin-h=10)
 
@@ -51,7 +56,6 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DC143C?style=flat)
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🏠 CozyGen - Smart Interior Design E-Commerce
@@ -89,6 +93,8 @@ Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project 
 ---
 
 ### 🤖 [Downloads Warden - MCP Server](https://github.com/rivka-git/mcp-downloads-handler)
+
+![Stars](https://img.shields.io/github/stars/rivka-git/mcp-downloads-handler?style=social) ![Forks](https://img.shields.io/github/forks/rivka-git/mcp-downloads-handler?style=social)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-2E4053?style=flat) ![MCP](https://img.shields.io/badge/MCP-6A0DAD?style=flat) ![SHA--256](https://img.shields.io/badge/SHA--256-555555?style=flat)
 
