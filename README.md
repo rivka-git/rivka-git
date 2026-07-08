@@ -12,6 +12,7 @@ I am a passionate Full Stack Developer specializing in building modern web appli
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Databases**
@@ -38,26 +39,41 @@ I am a passionate Full Stack Developer specializing in building modern web appli
 ### 🚀 Featured Projects
 
 #### 🏠 CozyGen - Smart Furniture & Interior Design Platform
-*Full-stack platform combining e-commerce with AI-assisted design.*
-**Key Features:**
-* Generative AI integration (Groq API + LLaMA 3.3) for vision-based room analysis.
-* Layered Architecture in ASP.NET Core with Entity Framework Core.
-* Responsive frontend developed with Angular and PrimeNG.
-* Secure infrastructure using JWT Authentication and Middleware.
+![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat&logo=angular&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=flat&logo=meta&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B0082?style=flat&logo=opencv&logoColor=white)
+
+*Full-stack platform combining furniture retail with intelligent interior design capabilities.*
+
+**Key Features**
+* AI design assistant using Groq API and LLaMA 3.3.
+* Computer Vision for style detection from uploaded room images.
+* Layered Architecture with Entity Framework Core.
+* Responsive Angular frontend with PrimeNG and RxJS.
+* RESTful API architecture with scalable backend design.
+
+---
 
 #### 🧠 Intelligent Project Agent
-*Hybrid RAG-based system for intelligent project analysis.*
-**Key Features:**
-* Developed with LlamaIndex and GPT models for high-accuracy semantic retrieval.
-* Document knowledge extraction and source-based referencing.
-* Intuitive user interface using Gradio.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llamaindex&logoColor=white) ![Cohere](https://img.shields.io/badge/Cohere-FF6B6B?style=flat&logo=cohere&logoColor=white) ![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-8A2BE2?style=flat&logo=readme&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+
+*Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project documentation and knowledge retrieval.*
+
+**Key Features**
+* Intelligent routing between semantic and structured retrieval.
+* Workflow-based architecture using LlamaIndex Workflows.
+* Deterministic structured extraction with Pydantic.
+* Enterprise-focused modular backend architecture.
+
+---
 
 #### 🤖 Downloads Warden - MCP Server
-*Autonomous and intelligent file management system.*
-**Key Features:**
-* Async Python server for automated file sorting and organization.
-* Integration with Claude MCP for secure and direct file system access.
-* Advanced Hash-based duplicate detection and automated workflow execution.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=git&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-FFD43B?style=flat&logo=python&logoColor=white)
+
+*Specialized MCP server for intelligent and automated file management workflows.*
+
+**Key Features**
+* Smart file organization and sorting.
+* SHA-256 based duplicate detection.
+* 8 intelligent tools for Claude Desktop integration.
 
 ---
 
