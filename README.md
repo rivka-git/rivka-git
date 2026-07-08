@@ -7,8 +7,14 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
 
 ## 📊 My GitHub Stats
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rivka-git&theme=radical&column=7&margin-w=10&margin-h=10)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka-git&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rivka-git&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivka-git&layout=compact&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rivka-git&theme=react-dark)
 
 ---
 
@@ -149,3 +155,9 @@ Program: Ultra-Code by Kama-Tech
 - 📧 Email: rivka7905@gmail.com
 - 📱 Phone: 058-3237905
 - 💻 GitHub: https://github.com/rivka-git
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/rivka-git/rivka-git/output/github-contribution-grid-snake.svg)
