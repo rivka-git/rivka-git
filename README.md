@@ -84,7 +84,7 @@ Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project 
 
 ### 🤖 Downloads Warden - MCP Server
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-2E4053?style=flat) ![MCP](https://img.shields.io/badge/MCP-6A0DAD?style=flat) ![SHA--256](https://img.shields.io/badge/SHA--256-555555?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 Specialized MCP server for intelligent and automated file management workflows.
 
@@ -99,7 +99,7 @@ Specialized MCP server for intelligent and automated file management workflows.
 
 ### 💻 CLI Command Generator
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DC143C?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 Natural language interface for generating safe Windows CLI commands.
 
