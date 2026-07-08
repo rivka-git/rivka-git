@@ -5,19 +5,44 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
 
 ---
 
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivka-git&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivka-git&layout=compact&theme=radical)
+
+---
+
 ## 🛠️ Technical Stack
 
 **Languages**
-`C#` `Python` `Java` `C++` `TypeScript`
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Backend & Databases**
-`ASP.NET Core` `FastAPI` `SQL Server` `MongoDB`
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Frontend**
-`Angular` `React` `HTML5` `CSS3`
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **AI & LLM**
-`Generative AI` `LlamaIndex` `RAG` `Computer Vision` `Prompt Engineering`
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DC143C?style=flat)
 
 ---
 
