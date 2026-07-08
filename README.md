@@ -16,33 +16,33 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Databases**
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI & LLM**
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DC143C?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-DC143C?style=for-the-badge)
 
 ---
 
@@ -50,7 +50,7 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
 
 ### 🏠 CozyGen - Smart Interior Design E-Commerce
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![PrimeNG](https://img.shields.io/badge/PrimeNG-6366F1?style=flat) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PrimeNG](https://img.shields.io/badge/PrimeNG-6366F1?style=for-the-badge) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
 
 AI-powered e-commerce platform combining furniture retail with intelligent interior design capabilities.
 
@@ -69,7 +69,7 @@ AI-powered e-commerce platform combining furniture retail with intelligent inter
 
 ### 🧠 Intelligent Project Agent
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat) ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat) ![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-6A0DAD?style=flat) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge) ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge) ![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-6A0DAD?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project documentation and knowledge retrieval.
 
@@ -84,7 +84,7 @@ Enterprise-grade Hybrid RAG system acting as a centralized AI brain for project 
 
 ### 🤖 Downloads Warden - MCP Server
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Specialized MCP server for intelligent and automated file management workflows.
 
@@ -99,7 +99,7 @@ Specialized MCP server for intelligent and automated file management workflows.
 
 ### 💻 CLI Command Generator
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 Natural language interface for generating safe Windows CLI commands.
 
@@ -114,7 +114,7 @@ Natural language interface for generating safe Windows CLI commands.
 
 ### 📄 Attendance Report Variation System
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-4B0082?style=flat) ![Tesseract](https://img.shields.io/badge/Tesseract-4285F4?style=flat) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-8A2BE2?style=flat) ![ReportLab](https://img.shields.io/badge/ReportLab-DA291C?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-4B0082?style=for-the-badge) ![Tesseract](https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-8A2BE2?style=for-the-badge) ![ReportLab](https://img.shields.io/badge/ReportLab-DA291C?style=for-the-badge)
 
 Python-based pipeline for automated processing and modification of Hebrew attendance PDF reports.
 
